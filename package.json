@@ -1,0 +1,25 @@
+{
+  "name": "@getprofile/types",
+  "version": "1.0.0",
+  "description": "Shared Profile types for GetProfile AI",
+  "main": "index.d.ts",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getprofile/types"
+  },
+  "keywords": [
+    "types",
+    "getprofile",
+    "profiles",
+    "user",
+    "profiling",
+    "personalization"
+  ],
+  "author": "Egor Miliukov <milukove@gmail.com> (https://github.com/milukove)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getprofile/types/issues"
+  },
+  "homepage": "https://getprofile-ai.com"
+}
